@@ -11,8 +11,7 @@ Para começar a explorar, siga os passos abaixo:
 1. Clone o repositório principal:
    ```bash
    git clone https://github.com/usuario/AI
-   cd AI
-```
+   cd AI```
 
 2. Inicialize todos os submódulos para garantir o download completo das aplicações:
 ```
