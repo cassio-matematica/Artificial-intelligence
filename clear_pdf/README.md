@@ -49,10 +49,6 @@ Obtenha o resultado:
 ├── static/               # Arquivos estáticos (CSS, JS)
 └── uploads/              # Diretório para armazenar PDFs carregados
 
-⚙️ Configurações
-
-    Formato de Exportação: Por padrão, a aplicação exporta os dados em JSON. Este comportamento pode ser configurado em app.py.
-    Pré-processamento: Personalize o nível de pré-processamento, como normalização e tokenização, editando o script principal.
 
 📬 Contato
 
