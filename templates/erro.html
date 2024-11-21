@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Erro</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body class="w3-light-grey">
+
+<div class="w3-container w3-center w3-padding-large">
+    <h2 class="w3-text-red">Erro ao Processar o Arquivo</h2>
+    <p class="w3-text-dark-grey">Houve um problema no carregamento ou processamento do arquivo.</p>
+    <p class="w3-text-dark-grey">Verifique se o arquivo está correto e tente novamente.</p>
+    
+    <!-- Botão para voltar -->
+    <a href="{{ url_for('main.index') }}" 
+       class="w3-button w3-margin-top w3-round-large w3-text-white w3-blue">Voltar</a>
+</div>
+
+</body>
+</html>
